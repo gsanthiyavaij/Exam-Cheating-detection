@@ -53,6 +53,16 @@ cheat/
 
 ````
 
+ Dataset Sources
+
+This project uses two datasets from Roboflow:
+
+- Mobile phone detection dataset: [Roboflow Mobile Phone Dataset](https://universe.roboflow.com/m17865515473-163-com/mobilephone-wusj2)
+- Exam cheating detection dataset: [Roboflow Exam Cheating Dataset](https://universe.roboflow.com/trn-quang-tip/exam-cheating-9iz1y-rrfsz)
+
+The models (`yolov8_trained_model.pt` and `yolov8_trained_model(1).pt`) were trained on these datasets.
+
+
 
 
  ▶️ How to Run

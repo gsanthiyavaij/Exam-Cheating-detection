@@ -118,14 +118,3 @@ This project is open-source under the **MIT License**.
 
 Developed by **Santhiya G**
 
----
-
-
-
-Would you like me to:
-- Save this `README.md` as a file and give it to you?
-- Help you prepare a `.gitignore` and `.env` example?
-- Assist in pushing this to GitHub step-by-step?
-
-Let me know!
-

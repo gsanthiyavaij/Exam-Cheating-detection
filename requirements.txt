@@ -1,0 +1,12 @@
+opencv-python
+ultralytics
+pyserial
+webrtcvad
+numpy
+pyaudio
+wave
+smtplib
+email
+threading
+streamlit
+tkinter
